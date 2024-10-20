@@ -2,7 +2,8 @@
 <img src="https://i.imgur.com/4hzgUaF.jpeg" alt="AWS logo"/>
 </p>
 
-<h1>Lab - Azure Virtual Private Network </h1>
+<h1>Lab - Create an AWS environment and configure IAM roles and policies.
+ </h1>
 
 - Simple Steps and Description:
   
